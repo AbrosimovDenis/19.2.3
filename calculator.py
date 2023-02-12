@@ -1,3 +1,6 @@
+
+
+
 class Calculator:
    def multiply(self, x, y):
        return x * y
@@ -9,4 +12,4 @@ class Calculator:
        return x - y
 
    def adding(self, x, y):
-       return x + 
+       return x + y
